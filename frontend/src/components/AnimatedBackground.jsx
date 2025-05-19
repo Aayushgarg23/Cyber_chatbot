@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 
+
 export default function AnimatedBackground() {
   const [bubbles, setBubbles] = useState([]);
 
